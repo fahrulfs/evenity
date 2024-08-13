@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "image":"/assets/partner/bd.png"
+    },
+    {
+        "id":2,
+        "image":"/assets/partner/canva.png"
+    },
+    {
+        "id":3,
+        "image":"/assets/partner/coca_cola.png"
+    },
+    {
+        "id":4,
+        "image":"/assets/partner/genpact.png"
+    },
+    {
+        "id":5,
+        "image":"/assets/partner/hulu.png"
+    },
+    {
+        "id":6,
+        "image":"/assets/partner/spotify.png"
+    },
+    {
+        "id":7,
+        "image":"/assets/partner/tiktok.png"
+    },
+    {
+        "id":8,
+        "image":"/assets/partner/universal.png"
+    }
+]

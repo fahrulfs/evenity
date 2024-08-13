@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+       "title":"Meet up Freelancer",
+       "date": "2024-03-01",
+       "time": "10:00pm - 12:00pm",
+        "location":"Jakarta,Indonesia",
+       "image":"/assets/eventlist/event1.png"
+    },
+{
+        "id":2,
+       "title":"Metal Band Concert",
+       "date": "2024-03-01",
+       "time": "10:00pm - 12:00pm",
+       "location":"Jakarta,Indonesia",
+        "image":"/assets/eventlist/event2.png"
+    },
+  
+  {
+        "id":3,
+       "title":"International Education Exhibition",
+       "date": "2024-03-01",
+       "time": "10:00pm - 12:00pm",
+       "location":"Surabaya,Indonesia",
+        "image":"/assets/eventlist/event3.png"
+    }, 
+{
+        "id":4,
+       "title":"Beatbox Battle Festival ",
+       "date": "2024-03-01",
+       "time": "10:00pm - 12:00pm",
+       "location":"Bandung,Indonesia",
+        "image":"/assets/eventlist/event4.png"
+    },
+{
+        "id":5,
+       "title":"Festival Holi Indian",
+       "date": "2024-03-01",
+       "time": "10:00pm - 12:00pm",
+       "location":"Solo,Indonesia",
+        "image":"/assets/eventlist/event5.png"
+    },
+{
+        "id":6,
+       "title":"Concert Coldplay Band",
+       "date": "2024-03-01",
+       "time": "10:00pm - 12:00pm",
+       "location":"Jakarta,Indonesia",
+        "image":"/assets/eventlist/event6.png"
+    }
+]
